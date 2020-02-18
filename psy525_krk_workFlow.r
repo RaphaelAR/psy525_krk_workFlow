@@ -1,5 +1,5 @@
 ---
-title: "Psy525_rodriguez_110220_preregistrationTemplate"
+title: "Psy525_rodriguez_180220_krk_workFlow"
 output:
   html_document:
     self_contained: true
