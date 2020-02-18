@@ -1,8 +1,11 @@
 ---
 title: "Psy525_rodriguez_110220_preregistrationTemplate"
-output: html_document
+output:
+  html_document:
+    self_contained: true
 author: "Raphael A Rodriguez"
 date: "`r Sys.time()`"
+
 ---
 
 ![KRK Experiment Flow Chart](/Users/raphaelrodriguez/Desktop/PhD/Spring 2020/PSY525_Rodriguez_04_02_20_flowchart.png)
